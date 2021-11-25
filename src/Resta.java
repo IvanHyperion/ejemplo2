@@ -7,5 +7,5 @@ public class Resta extends Operacion{
         super(n1, n2, '-');
         this.resta = n1 - n2;
         this.setRes(this.resta);
-    }
+    } 
 }

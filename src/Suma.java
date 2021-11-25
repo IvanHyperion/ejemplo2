@@ -7,5 +7,5 @@ public class Suma extends Operacion{
         super(n1, n2, '+');
         this.suma = n1 + n2;
         this.setRes(this.suma);
-    }
+    } 
 }

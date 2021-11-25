@@ -9,3 +9,4 @@ public class Multiplicacion extends Operacion{
         this.setRes(this.multi);
     }
 }
+ 

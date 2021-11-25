@@ -9,4 +9,4 @@ public class Division extends Operacion{
         else this.div = n1 / n2;
         this.setRes(this.div);
     }    
-}
+} 
