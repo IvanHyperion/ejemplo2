@@ -4,6 +4,7 @@ public class Operacion {
     double n2;
     double res;
     char operacion;
+    int n;
 
     
     public Operacion(double n1, double n2, char operacion) {
@@ -12,6 +13,7 @@ public class Operacion {
         this.n2 = n2;
         this.operacion = operacion;
     }
+    
     
     
         
