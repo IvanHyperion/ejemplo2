@@ -7,7 +7,6 @@ public class Operacion {
     double n2;
     double res;
     char operacion;
-    int n=5;
 
     
     public Operacion(double n1, double n2, char operacion) {
